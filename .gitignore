@@ -1,0 +1,14 @@
+﻿# Secrets & Environment
+.env
+*.env
+*secret*
+*token*
+*.pem
+*.key
+
+# Logs & Cache
+*.log
+__pycache__/
+.pytest_cache/
+.DS_Store
+Thumbs.db
